@@ -1,0 +1,28 @@
+#heading{
+    font-family: "Regular Libre Baskerville";
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#para{
+    font-family: "Regular Libre Baskerville";
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+body{
+    background-color: black ;
+}
+
+#Girl{
+    width : 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+#Meme{
+    width: 100%;
+    border: 5px solid white;
+}
